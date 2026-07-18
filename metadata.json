@@ -1,0 +1,6 @@
+{
+  "name": "NSU Alumni Soirée 2026",
+  "description": "A premium, luxurious single-page event website for the NSU Alumni Soirée 2026 masquerade gala dinner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
